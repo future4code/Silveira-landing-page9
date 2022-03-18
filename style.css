@@ -93,8 +93,7 @@ main{
         main > div > img{
             /* border: solid 1px black; */
             width: 750px;
-            padding: 20px;
-            
+            padding: 20px;   
         }
 
         main > div > span {
