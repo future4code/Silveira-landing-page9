@@ -17,21 +17,12 @@ header {
     justify-content: space-evenly;     
 }
 
-
-header >.imagem > img{
-    width: 100px;
-    margin-right: 200vh;
-    padding: 0 5px;
-    margin-top: 4px;
-}
-=======
     header >.imagem > img{
         width: 100px;
         margin-right: 200vh;
         padding: 0 10px;
         margin-top: 7px;
     }
-
 
 /* -------------------------------------------------- */
 
@@ -175,35 +166,8 @@ main{
 
 }
 
-
-.texto3{
-    display: block;
-    padding: 85px;
-    font-weight: bolder;
-    font-size: 20px;
-    color: blue;
-    background-color: pink;
-}
-
-.texto4{
-    background-color: pink;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    display: block;
-    padding: 85px;
-    font-weight: bolder;
-    font-size: 20px;
-}
-
-p {
-    color: black;
-    margin: 10px 0 9px 0;
-}
-
-
-
 /* ----------------------------------------------------------------------------------------------- */
 /* Footer */
-
 
 footer{
     background-color: brown;
